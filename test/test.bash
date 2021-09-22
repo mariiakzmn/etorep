@@ -2,7 +2,7 @@
 # 3.2
 
 function set_path {
-	PATH_TO_BIN=/ # home to bin on linux dists
+	PATH_TO_BIN=/usr/local/bin
 	PATH_TO_PROJECT=/
 }
 
